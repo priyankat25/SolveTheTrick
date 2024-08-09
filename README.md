@@ -12,3 +12,9 @@ Ecvjck
 Output:
 vykcvjck
 
+Input:
+DvyEw1112
+GFxddgh123
+
+Output:
+vywxddgh
